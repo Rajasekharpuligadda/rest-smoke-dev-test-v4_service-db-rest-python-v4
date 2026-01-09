@@ -1,0 +1,21 @@
+azure-monitor-opentelemetry==1.6.6
+Flask==3.1.1
+gunicorn
+uvicorn
+a2wsgi
+opentelemetry-api==1.31.1
+opentelemetry-instrumentation-fastapi==0.52b1
+opentelemetry-sdk==1.31.1
+pydantic==2.11.7
+pydantic-settings==2.10.1
+pytest==8.4.1
+python-dotenv==1.1.1
+PyYAML>=6.0,<7
+asyncpg==0.29.0
+connexion[swagger-ui] >= 2.6.0; python_version>="3.6"
+werkzeug>=3.0.0
+swagger-ui-bundle >= 0.0.2
+python_dateutil >= 2.6.0
+setuptools>=68
+openapi-core>=0.20.0
+jsonschema>=4.0.0
